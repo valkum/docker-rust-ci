@@ -3,9 +3,9 @@ Docker stable container with batteries included.
 
 # Supported tags and respective Dockerfile links
 
-* 1.46.0-buster, 1.46.0, buster, latest
-* 1.46.0-slim-buster, 1.46.0-slim, slim-buster, slim
-* 1.46.0-alpine3.12, 1.46.0-alpine, alpine3.12, alpine
+* [`1.50.0-buster`, `1.50.0`, `buster`, `latest`](https://github.com/valkum/docker-rust-ci/blob/1.50.0/buster/Dockerfile)
+* [`1.50.0-slim-buster`, `1.50.0-slim`, `slim-buster`, `slim`](https://github.com/valkum/docker-rust-ci/blob/1.50.0/buster/slim/Dockerfile)
+* [`1.50.0-alpine3.12`, `1.50.0-alpine`, `alpine3.12`, `alpine`](https://github.com/valkum/docker-rust-ci/blob/1.50.0/alpine3.12/Dockerfile)
 
 # Additional software installed
 * sccache
